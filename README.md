@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4cb7959-ae82-47ba-adc2-0c58e1c429f0)<h1>Python Punkt Sprzedazy</h1>
+<h1>Python Punkt Sprzedazy</h1>
 
 <h2>Description</h2>
 Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużącymi do interakcji i wprowadzenia danych do programu by sfinalizować sprzedaż. Ten program służy do sprzedaży produktow w sklepie przez wybór produktow wyznanych w programie, nastepnie w menu zostanie pokazany wybrany produkt z ceną oraz iloscia, gdy zostanie wybrane pare produktów program podsumuję totalną cene do zapłaty, gdy już mamy totalną cene program pozwala na dodanie znizki do sumy. 
