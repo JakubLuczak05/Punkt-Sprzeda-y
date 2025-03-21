@@ -12,11 +12,11 @@ Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużąc
 <h2>Pokaz Programu:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Odpalenie Programu: <br/>
 <img src="https://i.imgur.com/pU1Vpwz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Wybór produktów:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
