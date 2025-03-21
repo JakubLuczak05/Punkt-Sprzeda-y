@@ -1,7 +1,7 @@
-<h1>JPython Punkt Sprzedazy</h1>
+<h1>Python Punkt Sprzedazy</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Program sklada sie z prostego kodu w Pythonie, Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 <br />
 
 
@@ -9,7 +9,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 - <b>Python</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Pokaz Programu:</h2>
 
 <p align="center">
 Launch the utility: <br/>
