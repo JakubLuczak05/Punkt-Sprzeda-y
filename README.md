@@ -13,7 +13,7 @@ Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużąc
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/a/8sanIEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pU1Vpwz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
