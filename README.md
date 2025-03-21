@@ -1,7 +1,7 @@
 <h1>Python Punkt Sprzedazy</h1>
 
 <h2>Description</h2>
-Program sklada sie z prostego kodu w Pythonie, Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Program sklada sie z kodu w Pythonie, program posiada GUI z przyciskami slużącymi do interakcji i wprowadzenia danych do programu by sfinalizować sprzedaż. Ten program służy do sprzedaży produktow w sklepie przez wybór produktow wyznanych w programie, nastepnie w menu zostanie pokazany wybrany produkt z ceną oraz iloscia, gdy zostanie wybrane pare produktów program podsumuję totalną cene do zapłaty, gdy już mamy totalną cene program pozwala na dodanie znizki do sumy. 
 <br />
 
 
